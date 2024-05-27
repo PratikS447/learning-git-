@@ -5,4 +5,6 @@ git commands
 -git status
 -git commit
 -git log
--
+-git status
+-add a message
+
