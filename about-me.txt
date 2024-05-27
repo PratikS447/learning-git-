@@ -1,1 +1,8 @@
-my name is pratik shinde the great.
+my name is pratik shinde.
+git commands
+-git init 
+-git add
+-git status
+-git commit
+-git log
+-
